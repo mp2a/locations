@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.example.com"
+baseurl = "zealous-mayer-168b12"
 languageCode = "en-us"
 title = "Highlights"
 theme = "hugo-highlights-theme"
@@ -59,7 +59,7 @@ googleAnalytics = ""
     id = "skills"
     type = "list"
     title = "Points forts"
-    description = "Notre contrat propose des garanties exclusives négociées auprès de AXA, Assureur Français solide et notable."
+    description = "Notre contrat propose des garanties exclusives négociées auprès de la comapgnie AXA, Assureur Français solide et notable."
     buttontext = "suivant"
     # the picture is stored at static/images/
     picture = "pic02.jpg"
