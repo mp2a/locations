@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "zealous-mayer-168b12"
+baseurl = "https://zealous-mayer-168b12"
 languageCode = "fr-fr"
 title = "Highlights"
 theme = "hugo-highlights-theme"
