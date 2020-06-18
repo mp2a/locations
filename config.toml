@@ -1,6 +1,6 @@
 # Site settings
 baseurl = "zealous-mayer-168b12"
-languageCode = "en-us"
+languageCode = "fr-fr"
 title = "Highlights"
 theme = "hugo-highlights-theme"
 
